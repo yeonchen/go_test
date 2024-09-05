@@ -16,4 +16,6 @@ func main() {
 	fmt.Println("hello, 세계")
 	fmt.Print("hello, ", "I'm min ")
 	fmt.Printf("%d years old!", 24)
+
+	fmt.Println("go" + "lang")
 }
