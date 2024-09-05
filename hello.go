@@ -13,9 +13,11 @@ import "fmt"
 // }
 
 func main() {
-	fmt.Println("hello, 세계")
-	fmt.Print("hello, ", "I'm min ")
-	fmt.Printf("%d years old!", 24)
+	// fmt.Println("hello, 세계")
+	// fmt.Print("hello, ", "I'm min ")
+	// fmt.Println("%d years old!", 24)
 
 	fmt.Println("go" + "lang")
+	fmt.Println("1 + 1 = ", 1+1)
+
 }
